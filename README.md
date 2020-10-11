@@ -1,2 +1,2 @@
 # textcnn
-使用textcnn新闻文本分类
+使用textcnn文本分类
