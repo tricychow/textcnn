@@ -6,6 +6,3 @@ python3.6
 tensorflow-gpu==1.14.0
 keras==2.3.1
 ```
-
-
-
